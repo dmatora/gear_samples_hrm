@@ -2,4 +2,5 @@
 .settings
 .rds_delta
 .sdk_delta.info
+.metadata
 HRMSample.wgt
